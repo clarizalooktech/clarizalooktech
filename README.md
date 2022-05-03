@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/header.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassadsor/main/header.png" align="center" style="width: 100%" />
 </div>  
   
 
