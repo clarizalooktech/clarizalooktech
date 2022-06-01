@@ -23,7 +23,7 @@ After taking my first Masters degree at the University of Western Sydney in 2017
 <br/> 
 [Exploratory Data Analysis Using R](https://github.com/clarizalooktech/r-programming-exploratory-data-anaysis)
 <br/> 
-[GIS Hazard Mapping Using QGIS](https://github.com/clarizalooktech/) 
+[GIS Hazard Mapping Using QGIS](https://www.youtube.com/watch?v=IQc13B3KZgQ)
 <br/> 
 
 
