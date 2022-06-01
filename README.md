@@ -14,9 +14,11 @@ After taking my first Masters degree at the University of Western Sydney in 2017
 [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
 <br/>  
 [Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
-  
 <br/> 
-
+[Akari Puzzle Game using Java](https://github.com/clarizalooktech/java-akari-puzzle-game)
+<br/> 
+[Train Rider Scheduler Using Bash](https://github.com/clarizalooktech/bash-shell-scripting-task3)
+<br/> 
 
 
 ## My Skill Set  
