@@ -3,6 +3,13 @@
 </div>  
  -->
  
+
+
+## About
+After a 10-year stint as senior digital marketing specialist (and consultant) with experience managing Google Ads accounts and web analytics, I am expanding my career into the cloud computing field particularly designing and developing big data systems. I have found fascination with solving problems relating to information extraction, preprocessing, ingestion and integration, data analysis, security and interface development. I have experience using AWS and Microsoft Azure services.  
+<br/> 
+After taking my first Masters degree at the University of Western Sydney in 2017, I'm currently pursuing my second post grad degree of Masters of Information Technology at The University of Western Australia (graduating on June 2022). 
+
 ## Recent Projects  
 [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
 <br/>  
@@ -10,14 +17,6 @@
   
 <br/> 
 
-### <div align="center">I'm Clariza, currently on my final year of Master of Information Technology at the University of Western Australia. I am aspiring to be a devops data engineer. </div>  
-
-
-
-![]()  
-  
-
-<br/>  
 
 
 ## My Skill Set  
