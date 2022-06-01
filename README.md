@@ -21,6 +21,10 @@ After taking my first Masters degree at the University of Western Sydney in 2017
 <br/> 
 [Group Project Web App that Reads Sensor and GPS Device](https://www.youtube.com/watch?v=4BGc4A2KKhU)
 <br/> 
+[Exploratory Data Analysis Using R](https://github.com/clarizalooktech/r-programming-exploratory-data-anaysis)
+<br/> 
+[GIS Hazard Mapping Using QGIS](https://github.com/clarizalooktech/) 
+<br/> 
 
 
 
