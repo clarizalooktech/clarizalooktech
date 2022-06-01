@@ -1,7 +1,12 @@
 <div align="center">
-<img src="xxx" align="center" style="width: 100%" />
+<!-- <img src="xxx" align="center" style="width: 100%" /> -->
 </div>  
+  ## Recent Projects  
+[8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
+<br/>  
+[Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
   
+<br/> 
 
 ### <div align="center">I'm Clariza, currently on my final year of Master of Information Technology at the University of Western Australia. I am aspiring to be a devops data engineer. </div>  
 
@@ -88,12 +93,7 @@
 <br/>  
 
 
-## Recent Projects  
-[8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
-<br/>  
-[Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
-  
-<br/> 
+
 
 
 
