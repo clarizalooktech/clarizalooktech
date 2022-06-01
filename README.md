@@ -19,7 +19,11 @@ After taking my first Masters degree at the University of Western Sydney in 2017
 <br/> 
 [Train Rider Scheduler Using Bash](https://github.com/clarizalooktech/bash-shell-scripting-task3)
 <br/> 
-[Group Project Web App that Reads Sensor and GPS Device](https://www.youtube.com/watch?v=4BGc4A2KKhU}
+[Group Project Web App that Reads Sensor and GPS Device](https://www.youtube.com/watch?v=4BGc4A2KKhU)
+<br/> 
+
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
