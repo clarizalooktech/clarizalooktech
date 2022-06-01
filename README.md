@@ -97,9 +97,13 @@
 
 
 ## Recent Projects  
+<ul>
+  <li> [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project) </li>
+  <li> [Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)</li>
   
-[8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project) 
-[Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
+</ul>
+
+
 <br/>  
 
   
