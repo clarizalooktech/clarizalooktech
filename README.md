@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassadsor/main/header.png" align="center" style="width: 100%" />
+<img src="xxx" align="center" style="width: 100%" />
 </div>  
   
 
@@ -96,9 +96,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Projects  
   
-
+[8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
 <br/>  
 
   
@@ -112,5 +112,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
