@@ -1,7 +1,9 @@
-<div align="center">
-<!-- <img src="xxx" align="center" style="width: 100%" /> -->
+<!--<div align="center">
+ <img src="xxx" align="center" style="width: 100%" />
 </div>  
-  ## Recent Projects  
+ -->
+ 
+## Recent Projects  
 [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
 <br/>  
 [Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
