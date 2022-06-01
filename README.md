@@ -3,17 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Clariza, currently on my final year of Master of Information Technology at the University of Western Australia. I am aspiring to be a data engineer. </div>  
-  
+### <div align="center">I'm Clariza, currently on my final year of Master of Information Technology at the University of Western Australia. I am aspiring to be a devops data engineer. </div>  
 
-- 🌱 I’m currently a Microsoft Student Learn Ambassador  
-  
 
-- 🌱 I passed both Azure Fundamentals and Azure AI Fundamentals Certifications  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 ![]()  
   
