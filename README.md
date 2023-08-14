@@ -11,6 +11,9 @@ After a 10-year stint as senior digital marketing specialist (and consultant) wi
 After taking my first Masters degree at the University of Western Sydney in 2017, I'm currently pursuing my second post grad degree of Masters of Information Technology at The University of Western Australia (graduating on June 2022). 
 
 ## Projects  
+[Onfra-as-Code Azure Terraform: Creating Resource Group](https://github.com/clarizalooktech/azure-terraform-create-resource-group)
+<br/> 
+
 [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
 <br/> 
 [Website Dev Using HTML, CSS, Javascript & Bootstrap](https://github.com/clarizalooktech/code-on-demand)
