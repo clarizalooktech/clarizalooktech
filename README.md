@@ -11,6 +11,8 @@ After a 10-year stint as senior digital marketing specialist (and consultant) wi
 After taking my first Masters degree at the University of Western Sydney in 2017, I'm currently pursuing my second post grad degree of Masters of Information Technology at The University of Western Australia (graduating on June 2022). 
 
 ## Projects  
+Check out my repo for more updates
+<br/> 
 [Infra-as-Code Azure Terraform: Creating Resource Group](https://github.com/clarizalooktech/azure-terraform-create-resource-group)
 <br/> 
 [8 Puzzle Game UWA Uni Project](https://github.com/clarizalooktech/8-puzzle-game-uni-project)
@@ -99,11 +101,6 @@ After taking my first Masters degree at the University of Western Sydney in 2017
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=clariza-look-microsoft-ambassador&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 
