@@ -6,10 +6,21 @@
 
 
 ## About
-After a 10-year stint as senior digital marketing specialist (and consultant) with experience managing Google Ads accounts and web analytics, I am expanding my career into the cloud computing field particularly designing and developing big data systems. I have found fascination with solving problems relating to information extraction, preprocessing, ingestion and integration, data analysis, security and interface development. I have experience using AWS and Microsoft Azure services.  
+After a 10-year stint as senior digital marketing specialist (and consultant) with experience managing Google Ads accounts and web analytics, I am expanding my career into the cloud computing field particularly designing and developing big data systems. 
 <br/> 
-After taking my first Masters degree at the University of Western Sydney in 2017, I'm currently pursuing my second post grad degree of Masters of Information Technology at The University of Western Australia (graduating on June 2022). 
-
+Now I am a DevOps engineer with almost 2 years of hands-on experience deploying CI/CD pipelines, and automation of cloud infrastructure. I have a strong core implementation and troubleshooting experience in Infrastructure as code AWS CDK, VPCs, ECS, ECR, Cloudformation, Terraform, EC2, Cloudfront, IAM, ALB/NLB & serverless development – Lambda and Fargate, S3, RDS, DynamoDB/ Aurora, etc. I am also proficient in managing and scaling containerized environments using AWS Elastic Container Service (ECS).
+<br/> 
+For portfolio programming projects, please refer to my CV with the link to my repo.
+<br/> 
+Programming & Platforms:
+Bash/Shell Scripting / Typescript-Node JS / Linux / Python / Java / Docker / Git-Github Actions / AWS CDK / Devops (CI-CD) / familiarity with Flask and Django frameworks / CSS-Bootstrap 
+<br/> 
+Soft Skills:
+Curious // Customer Centric // Mentor // Collaborative // Resilient// Adaptable// Strategic
+<br/> 
+Prior Industry Experience (in Advertising/Marketing): 
+SaaS / App Development (Marketing experience) / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
+<br/> 
 ## Projects  
 Check out my repo for more updates
 <br/> 
