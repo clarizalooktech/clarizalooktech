@@ -12,7 +12,7 @@ Now I am a DevOps engineer with almost 2 years of hands-on experience deploying 
 <br/> <br/> 
 For portfolio programming projects, please refer to my CV with the link to my repo.
 <br/> <br/> 
-Programming & Platforms:
+Programming & Platforms:  <br/> 
 Bash/Shell Scripting / Typescript-Node JS / Linux / Python / Java / Docker / Git-Github Actions / AWS CDK / Devops (CI-CD) / familiarity with Flask and Django frameworks / CSS-Bootstrap 
 <br/> <br/> 
 Soft Skills:  <br/> 
