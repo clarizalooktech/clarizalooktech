@@ -10,8 +10,6 @@ After a 10-year stint as senior digital marketing specialist (and consultant) wi
 <br/> <br/> 
 Now I am a DevOps engineer with almost 2 years of hands-on experience deploying CI/CD pipelines, and automation of cloud infrastructure. I have a strong core implementation and troubleshooting experience in Infrastructure as code AWS CDK, VPCs, ECS, ECR, Cloudformation, Terraform, EC2, Cloudfront, IAM, ALB/NLB & serverless development – Lambda and Fargate, S3, RDS, DynamoDB/ Aurora, etc. I am also proficient in managing and scaling containerized environments using AWS Elastic Container Service (ECS).
 <br/> <br/> 
-For portfolio programming projects, please refer to my CV with the link to my repo.
-<br/> <br/> 
 Programming & Platforms:  <br/> 
 Bash/Shell Scripting / Typescript-Node JS / Linux / Python / Java / Docker / Git-Github Actions / AWS CDK / Devops (CI-CD) / familiarity with Flask and Django frameworks / CSS-Bootstrap 
 <br/> <br/> 
