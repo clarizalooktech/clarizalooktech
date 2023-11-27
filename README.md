@@ -15,10 +15,10 @@ For portfolio programming projects, please refer to my CV with the link to my re
 Programming & Platforms:
 Bash/Shell Scripting / Typescript-Node JS / Linux / Python / Java / Docker / Git-Github Actions / AWS CDK / Devops (CI-CD) / familiarity with Flask and Django frameworks / CSS-Bootstrap 
 <br/> <br/> 
-Soft Skills:
+Soft Skills:  <br/> 
 Curious // Customer Centric // Mentor // Collaborative // Resilient// Adaptable// Strategic
 <br/> <br/> 
-Prior Industry Experience (in Advertising/Marketing): 
+Prior Industry Experience (in Advertising/Marketing):   <br/> 
 SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
 <br/> <br/> 
 ## Projects  
