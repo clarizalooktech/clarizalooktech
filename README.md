@@ -19,7 +19,7 @@ Soft Skills:
 Curious // Customer Centric // Mentor // Collaborative // Resilient// Adaptable// Strategic
 <br/> <br/> 
 Prior Industry Experience (in Advertising/Marketing): 
-SaaS / App Development (Marketing experience) / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
+SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
 <br/> <br/> 
 ## Projects  
 Check out my repo for more updates
