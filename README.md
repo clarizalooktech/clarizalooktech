@@ -13,14 +13,14 @@ Programming & Platforms:  <br/>
  - Json
  - Yaml
 
-Containerization:
+Containerization: <br/> 
  - Docker 
  - Amazon ECS
  - Amazon ECR
  - Kubernetes - Helm (Red Hat OpenShift Service on AWS)
 
-<br/>
- - Soft Skills:  <br/> 
+
+Soft Skills: <br/> 
  - Source Control:
  - Git-Github
  - Bitbucket
