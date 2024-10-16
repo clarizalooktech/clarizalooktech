@@ -57,7 +57,6 @@ Soft Skills: <br/>
  - Adaptable
  - Strategic
 
-<br/> <br/> 
 Prior Industry Experience (in Advertising/Marketing):   <br/> 
 SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
 <br/> <br/> 
