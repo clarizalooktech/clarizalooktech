@@ -19,14 +19,11 @@ Containerization: <br/>
  - Amazon ECR
  - Kubernetes - Helm (Red Hat OpenShift Service on AWS)
 
-
-Soft Skills: <br/> 
- - Source Control:
+Source Control: <br/> 
  - Git-Github
  - Bitbucket
 
-<br/>
-Demonstrated experience in build-deployment CiCD:
+Demonstrated experience in build-deployment CiCD: <br/> 
  - Github Actions
  - Bitbucket Pipelines
  - AWS CodeBuild
@@ -34,28 +31,24 @@ Demonstrated experience in build-deployment CiCD:
  - Argo-CD
  - GitOps
 
-<br/>
-Infrastructure as Code (IAC):
+Infrastructure as Code (IAC): <br/> 
  - AWS CDK (Cloud Development Kit)
  - AWS Cloudformation 
  - HashiCorp Terraform 
 
-<br/>
-Database:
+
+Database: <br/> 
  - Microsoft SQL Server
  - PostgreSql 
  - DynamoDb
 
-<br/>
-Backend Web/App Development:
+Backend Web/App Development: <br/> 
  - Worked with Java, PHP and .Net on building infra
-<br/>
 
-OOP:
+OOP: <br/> 
  - Knowledgeable in Java and C++
 
-<br/>
-Soft Skills:
+Soft Skills: <br/> 
  - Curious 
  - Customer Centric 
  - Mentor 
