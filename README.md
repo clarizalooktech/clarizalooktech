@@ -1,10 +1,3 @@
-<!--<div align="center">
- <img src="xxx" align="center" style="width: 100%" />
-</div>  
- -->
- 
-
-
 ## About
 Switched my career from Digital Marketing to DevOps engineering. Now I have developed my programming and tech skills in nodeJs, typescript, python and hands-on with deploying CI/CD pipelines, and automation of cloud infrastructure. 
 <br/> <br/> 
@@ -26,7 +19,7 @@ Containerization:
  - Amazon ECR
  - Kubernetes - Helm (Red Hat OpenShift Service on AWS)
 
-<br/> <br/> 
+<br/>
  - Soft Skills:  <br/> 
  - Source Control:
  - Git-Github
