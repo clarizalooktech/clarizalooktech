@@ -6,15 +6,71 @@
 
 
 ## About
-After a 10-year stint as senior digital marketing specialist (and consultant) with experience managing Google Ads accounts (that are over $500k monthly spend) and web analytics, I have expanded my career into the cloud computing field particularly designing and developing big data systems. 
+Switched my career from Digital Marketing to DevOps engineering. Now I have developed my programming and tech skills in nodeJs, typescript, python and hands-on with deploying CI/CD pipelines, and automation of cloud infrastructure. 
 <br/> <br/> 
-Now I am a DevOps engineer with almost 2 years of hands-on experience deploying CI/CD pipelines, and automation of cloud infrastructure. I have a strong core implementation and troubleshooting experience in Infrastructure as code AWS CDK, VPCs, ECS, ECR, Cloudformation, Terraform, EC2, Cloudfront, IAM, ALB/NLB & serverless development – Lambda and Fargate, S3, RDS, DynamoDB/ Aurora, etc. I am also proficient in managing and scaling containerized environments using AWS Elastic Container Service (ECS).
+I have a strong core implementation and troubleshooting experience in Infrastructure as code (iAC) particularly AWS CDK deploying VPCs, ECS, ECR, Cloudformation, EC2, Cloudfront, AIM, ALB/NLB and serverless technolgies such as Lambda and Fargate, S3, RDS, DynamoDB, etc. I am also proficient in managing and scaling containerized environments using AWS Elastic Container Service (ECS) and Kubernetes (Red Hat OpenShift).
 <br/> <br/> 
+
 Programming & Platforms:  <br/> 
-Bash/Shell Scripting / Typescript-Node JS / Linux / Python / Java / Docker / Git-Github Actions / AWS CDK / Devops (CI-CD) / familiarity with Flask and Django frameworks / CSS-Bootstrap 
+ - Bash
+ - Shell Scripting
+ - Typescript / Node JS
+ - Linux
+ - Python
+ - Json
+ - Yaml
+
+Containerization:
+ - Docker 
+ - Amazon ECS
+ - Amazon ECR
+ - Kubernetes - Helm (Red Hat OpenShift Service on AWS)
+
 <br/> <br/> 
-Soft Skills:  <br/> 
-Curious // Customer Centric // Mentor // Collaborative // Resilient// Adaptable// Strategic
+ - Soft Skills:  <br/> 
+ - Source Control:
+ - Git-Github
+ - Bitbucket
+
+<br/>
+Demonstrated experience in build-deployment CiCD:
+ - Github Actions
+ - Bitbucket Pipelines
+ - AWS CodeBuild
+ - AWS CodePipeline
+ - Argo-CD
+ - GitOps
+
+<br/>
+Infrastructure as Code (IAC):
+ - AWS CDK (Cloud Development Kit)
+ - AWS Cloudformation 
+ - HashiCorp Terraform 
+
+<br/>
+Database:
+ - Microsoft SQL Server
+ - PostgreSql 
+ - DynamoDb
+
+<br/>
+Backend Web/App Development:
+ - Worked with Java, PHP and .Net on building infra
+<br/>
+
+OOP:
+ - Knowledgeable in Java and C++
+
+<br/>
+Soft Skills:
+ - Curious 
+ - Customer Centric 
+ - Mentor 
+ - Collaborative 
+ - Resilient
+ - Adaptable
+ - Strategic
+
 <br/> <br/> 
 Prior Industry Experience (in Advertising/Marketing):   <br/> 
 SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insurance / Retail (E-Commerce) / Business & Professional Services / Digital Media Agency Consulting
