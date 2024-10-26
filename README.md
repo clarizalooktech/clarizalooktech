@@ -63,6 +63,8 @@ SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insu
 ## Projects  
 Check out my repo for more updates
 <br/> <br/> 
+[Infra-as-Code CDKv2: Provision VPC in AWS](https://github.com/clarizalooktech/cdk-ecs-fargate-example)
+<br/>
 [Infra-as-Code CDKv2: Provision VPC in AWS](https://github.com/clarizalooktech/aws-cdkv2-vpc-construct)
 <br/> 
 [Infra-as-Code Azure Terraform: Creating Resource Group](https://github.com/clarizalooktech/azure-terraform-create-resource-group)
