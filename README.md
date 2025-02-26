@@ -1,5 +1,5 @@
 ## About
-Switched my career from Digital Marketing to DevOps engineering. Now I have developed my programming and tech skills in nodeJs, typescript, python and hands-on with deploying CI/CD pipelines, and automation of cloud infrastructure. 
+Switched my career from Digital Marketing to DevOps engineering in 2022. Now I have developed my programming and tech skills in nodeJs, typescript, python and hands-on with deploying CI/CD pipelines, and automation of cloud infrastructure. 
 <br/> <br/> 
 I have a strong core implementation and troubleshooting experience in Infrastructure as code (iAC) particularly AWS CDK deploying VPCs, ECS, ECR, Cloudformation, EC2, Cloudfront, AIM, ALB/NLB and serverless technolgies such as Lambda and Fargate, S3, RDS, DynamoDB, etc. I am also proficient in managing and scaling containerized environments using AWS Elastic Container Service (ECS) and Kubernetes (Red Hat OpenShift).
 <br/> <br/> 
