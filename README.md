@@ -12,6 +12,7 @@ Programming & Platforms:  <br/>
  - Python
  - Json
  - Yaml
+ - React JS
 
 Containerization: <br/> 
  - Docker 
