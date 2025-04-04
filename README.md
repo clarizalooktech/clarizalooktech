@@ -37,7 +37,6 @@ Infrastructure as Code (IAC): <br/>
  - AWS Cloudformation 
  - HashiCorp Terraform 
 
-
 Database: <br/> 
  - Microsoft SQL Server
  - PostgreSql 
@@ -64,6 +63,8 @@ SaaS / App Development / Educational Software & Gaming Apps / Start Ups / / Insu
 ## Projects  
 Check out my repo for more updates
 <br/> <br/> 
+<br/> 
+[My Dev Blog](https://dev.to/clarizalooktech)
 <br/> 
 [IAC Python CDK: Deploying EC2, Pushing/Pulling Docker Image to ECR with Github Actions](https://github.com/clarizalooktech/simple-nginx-app-cicd)
 <br/>
